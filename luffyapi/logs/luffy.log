@@ -1,0 +1,176 @@
+INFO 2021-02-25 22:52:14,931 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-02-25 22:53:59,553 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-02-25 22:58:30,518 autoreload 217 C:\Users\83872\PycharmProjects\luffy\luffyapi\luffyapi\settings\dev.py changed, reloading.
+INFO 2021-02-25 22:58:31,294 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-02-25 23:50:46,192 autoreload 217 C:\Users\83872\PycharmProjects\luffy\luffyapi\luffyapi\settings\dev.py changed, reloading.
+INFO 2021-02-25 23:50:46,959 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-02-25 23:50:55,560 autoreload 217 C:\Users\83872\PycharmProjects\luffy\luffyapi\luffyapi\settings\dev.py changed, reloading.
+INFO 2021-02-25 23:50:56,215 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-02-25 23:51:20,595 autoreload 217 C:\Users\83872\PycharmProjects\luffy\luffyapi\luffyapi\settings\dev.py changed, reloading.
+INFO 2021-02-25 23:51:21,257 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-02-25 23:52:16,577 autoreload 217 C:\Users\83872\PycharmProjects\luffy\luffyapi\luffyapi\settings\__init__.py changed, reloading.
+INFO 2021-02-25 23:52:17,328 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-02-25 23:52:41,896 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-02-25 23:53:48,391 basehttp 154 "GET / HTTP/1.1" 200 16348
+INFO 2021-02-25 23:53:48,457 basehttp 154 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2021-02-25 23:53:48,639 basehttp 154 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO 2021-02-25 23:53:48,640 basehttp 154 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2021-02-25 23:53:48,641 basehttp 154 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+WARNING 2021-02-25 23:53:48,755 log 228 Not Found: /favicon.ico
+WARNING 2021-02-25 23:53:48,755 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 1974
+INFO 2021-02-27 10:01:04,424 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-03-03 22:03:51,651 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-03-03 22:04:03,396 basehttp 154 "GET / HTTP/1.1" 200 16348
+INFO 2021-03-03 22:04:03,455 basehttp 154 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2021-03-03 22:04:03,566 basehttp 154 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO 2021-03-03 22:04:03,567 basehttp 154 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2021-03-03 22:04:03,567 basehttp 154 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+WARNING 2021-03-03 22:04:03,605 log 228 Not Found: /favicon.ico
+WARNING 2021-03-03 22:04:03,605 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 1974
+INFO 2021-03-03 22:04:59,222 autoreload 217 C:\Users\83872\PycharmProjects\luffy\luffyapi\luffyapi\settings\dev.py changed, reloading.
+INFO 2021-03-03 22:04:59,947 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-03-03 22:05:43,867 autoreload 217 C:\Users\83872\PycharmProjects\luffy\luffyapi\luffyapi\settings\dev.py changed, reloading.
+INFO 2021-03-03 22:05:44,567 autoreload 597 Watching for file changes with StatReloader
+ERROR 2021-03-03 22:05:58,968 exception 77 Invalid HTTP_HOST header: 'api.luffy.cn:8000'. You may need to add 'api.luffy.cn' to ALLOWED_HOSTS.
+WARNING 2021-03-03 22:05:59,011 log 228 Bad Request: /
+WARNING 2021-03-03 22:05:59,011 basehttp 154 "GET / HTTP/1.1" 400 70541
+ERROR 2021-03-03 22:05:59,242 exception 77 Invalid HTTP_HOST header: 'api.luffy.cn:8000'. You may need to add 'api.luffy.cn' to ALLOWED_HOSTS.
+WARNING 2021-03-03 22:05:59,276 log 228 Bad Request: /favicon.ico
+WARNING 2021-03-03 22:05:59,277 basehttp 154 "GET /favicon.ico HTTP/1.1" 400 70597
+INFO 2021-03-03 22:08:19,747 autoreload 597 Watching for file changes with StatReloader
+ERROR 2021-03-03 22:08:30,294 exception 77 Invalid HTTP_HOST header: 'api.luffy.cn:8000'. You may need to add 'api.luffy.cn' to ALLOWED_HOSTS.
+WARNING 2021-03-03 22:08:30,338 log 228 Bad Request: /
+WARNING 2021-03-03 22:08:30,339 basehttp 154 "GET / HTTP/1.1" 400 70676
+ERROR 2021-03-03 22:08:30,451 exception 77 Invalid HTTP_HOST header: 'api.luffy.cn:8000'. You may need to add 'api.luffy.cn' to ALLOWED_HOSTS.
+WARNING 2021-03-03 22:08:30,479 log 228 Bad Request: /favicon.ico
+WARNING 2021-03-03 22:08:30,480 basehttp 154 "GET /favicon.ico HTTP/1.1" 400 70858
+ERROR 2021-03-03 22:08:31,087 exception 77 Invalid HTTP_HOST header: 'api.luffy.cn:8000'. You may need to add 'api.luffy.cn' to ALLOWED_HOSTS.
+WARNING 2021-03-03 22:08:31,113 log 228 Bad Request: /
+WARNING 2021-03-03 22:08:31,114 basehttp 154 "GET / HTTP/1.1" 400 70676
+ERROR 2021-03-03 22:08:31,232 exception 77 Invalid HTTP_HOST header: 'api.luffy.cn:8000'. You may need to add 'api.luffy.cn' to ALLOWED_HOSTS.
+WARNING 2021-03-03 22:08:31,263 log 228 Bad Request: /favicon.ico
+WARNING 2021-03-03 22:08:31,263 basehttp 154 "GET /favicon.ico HTTP/1.1" 400 70858
+ERROR 2021-03-03 22:08:32,216 exception 77 Invalid HTTP_HOST header: 'api.luffy.cn:8000'. You may need to add 'api.luffy.cn' to ALLOWED_HOSTS.
+WARNING 2021-03-03 22:08:32,249 log 228 Bad Request: /
+WARNING 2021-03-03 22:08:32,249 basehttp 154 "GET / HTTP/1.1" 400 70676
+ERROR 2021-03-03 22:08:32,350 exception 77 Invalid HTTP_HOST header: 'api.luffy.cn:8000'. You may need to add 'api.luffy.cn' to ALLOWED_HOSTS.
+WARNING 2021-03-03 22:08:32,379 log 228 Bad Request: /favicon.ico
+WARNING 2021-03-03 22:08:32,380 basehttp 154 "GET /favicon.ico HTTP/1.1" 400 70858
+INFO 2021-03-03 22:09:13,198 autoreload 597 Watching for file changes with StatReloader
+ERROR 2021-03-03 22:09:16,348 exception 77 Invalid HTTP_HOST header: 'api.luffy.cn:8000'. You may need to add 'api.luffy.cn' to ALLOWED_HOSTS.
+WARNING 2021-03-03 22:09:16,383 log 228 Bad Request: /
+WARNING 2021-03-03 22:09:16,383 basehttp 154 "GET / HTTP/1.1" 400 70676
+ERROR 2021-03-03 22:09:16,482 exception 77 Invalid HTTP_HOST header: 'api.luffy.cn:8000'. You may need to add 'api.luffy.cn' to ALLOWED_HOSTS.
+WARNING 2021-03-03 22:09:16,512 log 228 Bad Request: /favicon.ico
+WARNING 2021-03-03 22:09:16,513 basehttp 154 "GET /favicon.ico HTTP/1.1" 400 70858
+ERROR 2021-03-03 22:09:17,063 exception 77 Invalid HTTP_HOST header: 'api.luffy.cn:8000'. You may need to add 'api.luffy.cn' to ALLOWED_HOSTS.
+WARNING 2021-03-03 22:09:17,094 log 228 Bad Request: /
+WARNING 2021-03-03 22:09:17,095 basehttp 154 "GET / HTTP/1.1" 400 70676
+ERROR 2021-03-03 22:09:17,180 exception 77 Invalid HTTP_HOST header: 'api.luffy.cn:8000'. You may need to add 'api.luffy.cn' to ALLOWED_HOSTS.
+WARNING 2021-03-03 22:09:17,217 log 228 Bad Request: /favicon.ico
+WARNING 2021-03-03 22:09:17,218 basehttp 154 "GET /favicon.ico HTTP/1.1" 400 70858
+ERROR 2021-03-03 22:09:17,629 exception 77 Invalid HTTP_HOST header: 'api.luffy.cn:8000'. You may need to add 'api.luffy.cn' to ALLOWED_HOSTS.
+WARNING 2021-03-03 22:09:17,658 log 228 Bad Request: /
+WARNING 2021-03-03 22:09:17,658 basehttp 154 "GET / HTTP/1.1" 400 70676
+ERROR 2021-03-03 22:09:17,749 exception 77 Invalid HTTP_HOST header: 'api.luffy.cn:8000'. You may need to add 'api.luffy.cn' to ALLOWED_HOSTS.
+WARNING 2021-03-03 22:09:17,778 log 228 Bad Request: /favicon.ico
+WARNING 2021-03-03 22:09:17,779 basehttp 154 "GET /favicon.ico HTTP/1.1" 400 70858
+ERROR 2021-03-03 22:09:27,139 exception 77 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2021-03-03 22:09:27,176 log 228 Bad Request: /login
+WARNING 2021-03-03 22:09:27,176 basehttp 154 "GET /login HTTP/1.1" 400 72002
+ERROR 2021-03-03 22:09:31,174 exception 77 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2021-03-03 22:09:31,205 log 228 Bad Request: /
+WARNING 2021-03-03 22:09:31,205 basehttp 154 "GET / HTTP/1.1" 400 71947
+ERROR 2021-03-03 22:09:45,029 exception 77 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+WARNING 2021-03-03 22:09:45,085 log 228 Bad Request: /
+WARNING 2021-03-03 22:09:45,086 basehttp 154 "GET / HTTP/1.1" 400 72146
+ERROR 2021-03-03 22:09:45,282 exception 77 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+WARNING 2021-03-03 22:09:45,315 log 228 Bad Request: /favicon.ico
+WARNING 2021-03-03 22:09:45,315 basehttp 154 "GET /favicon.ico HTTP/1.1" 400 72073
+INFO 2021-03-03 22:10:06,177 autoreload 597 Watching for file changes with StatReloader
+ERROR 2021-03-03 22:10:11,398 exception 77 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+WARNING 2021-03-03 22:10:11,430 log 228 Bad Request: /
+WARNING 2021-03-03 22:10:11,430 basehttp 154 "GET / HTTP/1.1" 400 72284
+ERROR 2021-03-03 22:10:11,521 exception 77 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+WARNING 2021-03-03 22:10:11,557 log 228 Bad Request: /favicon.ico
+WARNING 2021-03-03 22:10:11,557 basehttp 154 "GET /favicon.ico HTTP/1.1" 400 72337
+ERROR 2021-03-03 22:10:12,222 exception 77 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+WARNING 2021-03-03 22:10:12,255 log 228 Bad Request: /
+WARNING 2021-03-03 22:10:12,255 basehttp 154 "GET / HTTP/1.1" 400 72284
+ERROR 2021-03-03 22:10:12,523 exception 77 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+WARNING 2021-03-03 22:10:12,551 log 228 Bad Request: /favicon.ico
+WARNING 2021-03-03 22:10:12,551 basehttp 154 "GET /favicon.ico HTTP/1.1" 400 72337
+ERROR 2021-03-03 22:10:23,077 exception 77 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2021-03-03 22:10:23,109 log 228 Bad Request: /
+WARNING 2021-03-03 22:10:23,109 basehttp 154 "GET / HTTP/1.1" 400 71950
+INFO 2021-03-03 22:12:26,168 autoreload 597 Watching for file changes with StatReloader
+ERROR 2021-03-03 22:12:29,571 exception 77 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2021-03-03 22:12:29,618 log 228 Bad Request: /
+WARNING 2021-03-03 22:12:29,618 basehttp 154 "GET / HTTP/1.1" 400 71950
+ERROR 2021-03-03 22:13:14,169 exception 77 Invalid HTTP_HOST header: 'api.luffy.cn:8000'. You may need to add 'api.luffy.cn' to ALLOWED_HOSTS.
+WARNING 2021-03-03 22:13:14,200 log 228 Bad Request: /
+WARNING 2021-03-03 22:13:14,200 basehttp 154 "GET / HTTP/1.1" 400 70679
+ERROR 2021-03-03 22:13:14,417 exception 77 Invalid HTTP_HOST header: 'api.luffy.cn:8000'. You may need to add 'api.luffy.cn' to ALLOWED_HOSTS.
+WARNING 2021-03-03 22:13:14,447 log 228 Bad Request: /favicon.ico
+WARNING 2021-03-03 22:13:14,448 basehttp 154 "GET /favicon.ico HTTP/1.1" 400 70861
+INFO 2021-03-03 22:13:49,276 autoreload 597 Watching for file changes with StatReloader
+ERROR 2021-03-03 22:13:53,858 exception 77 Invalid HTTP_HOST header: 'api.luffy.cn:8000'. You may need to add 'api.luffy.cn' to ALLOWED_HOSTS.
+WARNING 2021-03-03 22:13:53,892 log 228 Bad Request: /
+WARNING 2021-03-03 22:13:53,892 basehttp 154 "GET / HTTP/1.1" 400 70676
+ERROR 2021-03-03 22:13:53,997 exception 77 Invalid HTTP_HOST header: 'api.luffy.cn:8000'. You may need to add 'api.luffy.cn' to ALLOWED_HOSTS.
+WARNING 2021-03-03 22:13:54,029 log 228 Bad Request: /favicon.ico
+WARNING 2021-03-03 22:13:54,030 basehttp 154 "GET /favicon.ico HTTP/1.1" 400 70858
+ERROR 2021-03-03 22:14:26,029 exception 77 Invalid HTTP_HOST header: 'api.luffy.cn:8000'. You may need to add 'api.luffy.cn' to ALLOWED_HOSTS.
+WARNING 2021-03-03 22:14:26,063 log 228 Bad Request: /
+WARNING 2021-03-03 22:14:26,064 basehttp 154 "GET / HTTP/1.1" 400 70579
+ERROR 2021-03-03 22:14:26,239 exception 77 Invalid HTTP_HOST header: 'api.luffy.cn:8000'. You may need to add 'api.luffy.cn' to ALLOWED_HOSTS.
+WARNING 2021-03-03 22:14:26,270 log 228 Bad Request: /favicon.ico
+WARNING 2021-03-03 22:14:26,270 basehttp 154 "GET /favicon.ico HTTP/1.1" 400 70635
+INFO 2021-03-03 22:15:45,913 autoreload 217 C:\Users\83872\PycharmProjects\luffy\luffyapi\luffyapi\settings\dev.py changed, reloading.
+INFO 2021-03-03 22:15:46,697 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-03-03 22:15:47,674 basehttp 154 "GET / HTTP/1.1" 200 16348
+INFO 2021-03-03 22:15:47,698 basehttp 154 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2021-03-03 22:15:47,767 basehttp 154 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO 2021-03-03 22:15:47,779 basehttp 154 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2021-03-03 22:15:47,779 basehttp 154 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+WARNING 2021-03-03 22:15:47,807 log 228 Not Found: /favicon.ico
+WARNING 2021-03-03 22:15:47,807 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 1977
+INFO 2021-03-03 22:21:09,740 autoreload 217 C:\Users\83872\PycharmProjects\luffy\luffyapi\luffyapi\settings\dev.py changed, reloading.
+INFO 2021-03-03 22:21:10,385 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-03-17 21:41:19,659 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-03-17 21:44:57,922 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-03-17 21:47:21,020 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-03-17 21:47:48,465 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-03-17 21:49:31,339 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-03-17 21:51:39,207 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-03-17 21:51:52,069 autoreload 217 C:\Users\83872\PycharmProjects\luffy\luffyapi\luffyapi\settings\dev.py changed, reloading.
+INFO 2021-03-17 21:51:52,730 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-03-17 21:52:46,859 autoreload 217 C:\Users\83872\PycharmProjects\luffy\luffyapi\luffyapi\settings\dev.py changed, reloading.
+INFO 2021-03-17 21:52:47,527 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-03-17 21:52:59,362 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-03-17 21:53:39,456 autoreload 597 Watching for file changes with StatReloader
+ERROR 2021-03-17 21:53:47,454 exception 77 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2021-03-17 21:53:47,503 log 228 Bad Request: /
+WARNING 2021-03-17 21:53:47,504 basehttp 154 "GET / HTTP/1.1" 400 72393
+ERROR 2021-03-17 21:53:47,763 exception 77 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2021-03-17 21:53:47,812 log 228 Bad Request: /favicon.ico
+WARNING 2021-03-17 21:53:47,815 basehttp 154 "GET /favicon.ico HTTP/1.1" 400 72320
+INFO 2021-03-17 21:54:39,681 basehttp 154 "GET / HTTP/1.1" 200 16348
+INFO 2021-03-17 21:54:39,714 basehttp 154 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2021-03-17 21:54:39,785 basehttp 154 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO 2021-03-17 21:54:39,785 basehttp 154 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2021-03-17 21:54:39,786 basehttp 154 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+WARNING 2021-03-17 21:54:39,813 log 228 Not Found: /favicon.ico
+WARNING 2021-03-17 21:54:39,813 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 1977
+INFO 2021-03-17 22:01:47,735 autoreload 217 C:\Users\83872\PycharmProjects\luffy\luffyapi\luffyapi\settings\dev.py changed, reloading.
+INFO 2021-03-17 22:01:48,470 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-03-17 22:02:56,879 autoreload 217 C:\Users\83872\PycharmProjects\luffy\luffyapi\luffyapi\settings\dev.py changed, reloading.
+INFO 2021-03-17 22:02:57,555 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-03-17 22:09:36,121 autoreload 217 C:\Users\83872\PycharmProjects\luffy\luffyapi\luffyapi\urls.py changed, reloading.
+INFO 2021-03-17 22:09:36,957 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-03-17 22:10:42,670 autoreload 217 C:\Users\83872\PycharmProjects\luffy\luffyapi\luffyapi\urls.py changed, reloading.
+INFO 2021-03-17 22:10:43,369 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-03-17 22:20:11,152 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-03-17 22:21:05,266 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-03-17 22:22:00,347 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-03-17 22:22:24,094 autoreload 597 Watching for file changes with StatReloader
